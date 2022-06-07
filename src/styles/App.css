@@ -1,0 +1,20 @@
+.App {
+	margin-top: 100px;
+}
+.header-nav {
+	font-size: medium;
+
+}
+.header {
+	padding: 30px 140px;
+	color: #fff;
+}
+.section-1 {
+	height: 100vh;
+	background-color: blue;
+}
+.header-nav {
+	display: inline-block;
+	padding: 0 90px;
+}
+
